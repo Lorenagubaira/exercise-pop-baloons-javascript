@@ -3,6 +3,8 @@
 This is an amazing game to practice HTML, CSS and a little Javascript.
 The game goal is to POP all the balloons by clicking on them.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
@@ -15,6 +17,8 @@ $ git clone https://github.com/breatheco-de/exercise-pop-baloons-javascript.git
 ```
 
 Run the website by typing the following command on your terminal: `$ npx http-server --yes -c-1`
+
+</onlyfor>
 
 ## 📝 Instructions
 
