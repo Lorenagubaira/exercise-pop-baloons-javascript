@@ -2,6 +2,8 @@
 
 Este es un buen juego para practicar HTML, CSS y un poco de Javascript. El objetivo de este juego es reventar todos los globos haciendo clic en ellos.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
@@ -16,6 +18,7 @@ Ejecuta el sitio web con el siguiente comando en tu terminal: `$ npx http-server
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
+</onlyfor>
 
 ## 📝 Instrucciones
 
