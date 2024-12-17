@@ -9,7 +9,7 @@ The game goal is to POP all the balloons by clicking on them.
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://s.4geeks.com/start?repo=exercise-pop-baloons-javascript
+a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://s.4geeks.com/start?repo=breatheco-de/exercise-pop-baloons-javascript.git
 
 b) You can clone this repository on your local computer:
 ```sh
