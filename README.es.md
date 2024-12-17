@@ -1,5 +1,5 @@
 <!-- hide -->
-# Pop Balloons game using Javascript, HTML/CSS 🎈🎊
+# Juego de explotar globos usando Javascript, HTML/CSS 🎈🎊
 <!-- endhide -->
 
 Este es un buen juego para practicar HTML, CSS y un poco de Javascript. El objetivo de este juego es reventar todos los globos haciendo clic en ellos.
