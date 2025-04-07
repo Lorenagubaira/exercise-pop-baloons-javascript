@@ -1,5 +1,8 @@
 {
-	"title" : "Pop Balloons using HTML/CSS and a little Javascript",
+	"title" : {
+		"us": "Pop Balloons using HTML/CSS and a little Javascript",
+		"es": "Explota globos usando HTML/CSS y un poco de Javascript"
+	},
 	"slug" : "pop-baloons-javascript",
 	"status": "published",
 	"difficulty": "easy",
@@ -9,7 +12,10 @@
 	"duration" : 8,
 	"template_url": "self",
 	"technologies": ["javascript","html","css","dom","events"],
-	"description" : "Practice your entry-level skills in Javascript, The DOM and HTML/CSS by building a Pop Balloons Game.",
+	"description" : {
+		"us":"Create a fun balloon-popping game using HTML, CSS, and JavaScript! Practice DOM manipulation by rendering balloons, attaching click events, and making them disappear. Once all 20 balloons are popped, the game resets automatically. A great way to sharpen your frontend skills interactively!",
+		"es":"Crea un divertido juego de explotar globos usando HTML, CSS y JavaScript! Practica la manipulación del DOM renderizando globos, agregando eventos de clic y haciéndolos desaparecer. Una vez que explotes los 20 globos, el juego se reinicia automáticamente. ¡Una forma interactiva de mejorar tus habilidades frontend!"
+    },
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "tag-master", "points": 3 },
@@ -23,5 +29,8 @@
 		{ "badge": "functional-developer", "points": 6 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=169"
+	  }
 }
